@@ -32,7 +32,7 @@ http://localhost:8080/bestpratices/CategoriaEndPointService?wsdl
 13 - Para fazer o teste dos serviços Rest, as url's são:
 http://localhost:8080/bestpratices/blog
 http://localhost:8080/bestpratices/categoria
-
+_____________________________________________________________________________________________________________________
 
 English:
 # Best Practices with Web Services
