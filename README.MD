@@ -1,3 +1,4 @@
+Portuguese:
 # Boas Práticas com Web Services 
 
 Exemplo de aplicação JEE7, utilizando Web Services SOAP e RESTFul, EJB e JPA com Hibernate.
@@ -33,7 +34,7 @@ http://localhost:8080/bestpratices/blog
 http://localhost:8080/bestpratices/categoria
 
 
-
+English:
 # Best Practices with Web Services
 
 Example of a JEE7 application, using Web Services SOAP and RESTFul, EJB and JPA with Hibernate.
